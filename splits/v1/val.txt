@@ -1,10 +1,5 @@
-test/images/2022-03-27-10-30 001.jpg
-test/images/2022-03-27-10-30 017.jpg
 test/images/2022-03-27-10-30 021.jpg
 test/images/2022-03-27-10-30 026.jpg
-test/images/2022-03-27-10-30 027.jpg
-test/images/2022-03-27-10-30 061.jpg
-test/images/2022-03-27-10-30 082.jpg
 test/images/2022-03-27-10-30 094.jpg
 test/images/2022-03-27-10-30 098.jpg
 test/images/2022-03-27-10-30 104.jpg
@@ -21,12 +16,9 @@ test/images/2022-03-27-10-30 162.jpg
 test/images/2022-03-27-10-30 168.jpg
 test/images/2022-03-27-10-30 182.jpg
 test/images/2022-03-27-10-30 185.jpg
-test/images/2022-03-27-10-30 195.jpg
 test/images/2022-03-27-10-30 198.jpg
-train/images/2022-03-27-10-30 002.jpg
 train/images/2022-03-27-10-30 004.jpg
 train/images/2022-03-27-10-30 005.jpg
-train/images/2022-03-27-10-30 006.jpg
 train/images/2022-03-27-10-30 008.jpg
 train/images/2022-03-27-10-30 009.jpg
 train/images/2022-03-27-10-30 010.jpg
@@ -59,7 +51,6 @@ train/images/2022-03-27-10-30 045.jpg
 train/images/2022-03-27-10-30 046.jpg
 train/images/2022-03-27-10-30 048.jpg
 train/images/2022-03-27-10-30 049.jpg
-train/images/2022-03-27-10-30 050.jpg
 train/images/2022-03-27-10-30 051.jpg
 train/images/2022-03-27-10-30 054.jpg
 train/images/2022-03-27-10-30 055.jpg
@@ -68,7 +59,6 @@ train/images/2022-03-27-10-30 058.jpg
 train/images/2022-03-27-10-30 060.jpg
 train/images/2022-03-27-10-30 062.jpg
 train/images/2022-03-27-10-30 065.jpg
-train/images/2022-03-27-10-30 067.jpg
 train/images/2022-03-27-10-30 068.jpg
 train/images/2022-03-27-10-30 069.jpg
 train/images/2022-03-27-10-30 070.jpg
@@ -77,7 +67,6 @@ train/images/2022-03-27-10-30 073.jpg
 train/images/2022-03-27-10-30 074.jpg
 train/images/2022-03-27-10-30 075.jpg
 train/images/2022-03-27-10-30 076.jpg
-train/images/2022-03-27-10-30 077.jpg
 train/images/2022-03-27-10-30 078.jpg
 train/images/2022-03-27-10-30 079.jpg
 train/images/2022-03-27-10-30 081.jpg
