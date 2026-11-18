@@ -76,7 +76,7 @@ def main() -> None:
 
     # 5. resumo — lendo de volta do disco, não da memória
     for nome in ("train", "val"):
-        gravadas = (args.saida / f"{nome}.txt").read_text(encoding="utf-8").split()
+        gravadas = (args.saida / f"{nome}.txt").read_text(encoding="utf-8").splitlines()
         itens = conjuntos[nome]
         caixas = sum(int(i["n_caixas"]) for i in itens)
         print(f"\n{nome}: {len(gravadas)} linhas no ficheiro, "
